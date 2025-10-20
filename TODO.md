@@ -1,0 +1,2 @@
+- [x] Add visible title to index.html
+- [x] Modify colors in styles.css
